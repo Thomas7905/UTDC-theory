@@ -5,6 +5,8 @@ Unified Theory of Dark Components (UTDC): Dark matter as renormalized vacuum ene
 ## 🌟 Revolutionary Discovery: 
 **Dark Matter = Renormalized Vacuum Energy in Curved Spacetime**
 
+## 🌐 Official Links: https://zenodo.org/records/17438289
+
 ## 🎯 Core Results:
 ✅ **Solves Hubble Tension** - Predicts H₀ = 73.2 km/s/Mpc (Observed: 73.0 ± 1.0)  
 ✅ **Solves S₈ Tension** - Predicts σ₈ = 0.681 ± 0.015 (Observed: ~0.76)  
